@@ -1,3 +1,5 @@
+
+//only removing duplicates no sorting 
 import java.util.HashSet;
 
 class hashSet_demo

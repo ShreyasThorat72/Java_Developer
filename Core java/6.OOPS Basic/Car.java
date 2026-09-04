@@ -7,7 +7,7 @@ class Car {
 
     // Method to stop the car
     void stop() {
-        System.out.println("Car has stopped.");
+        System.out.println("Car has stoppeddddd.");
     }
 
     public static void main(String[] args) {

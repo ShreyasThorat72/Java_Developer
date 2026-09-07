@@ -18,7 +18,7 @@ public static void main(String[] args) {
     
     Rectangle r=new Rectangle();
 
-    r.radius=3;
+    r.radius=6;
 
     r.display();
 }

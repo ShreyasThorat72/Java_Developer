@@ -12,6 +12,7 @@ class TreeSet_demo
         number.add(20);
         number.add(30);
         number.add(10);
+        number.add(20);
 
         System.out.println("numbers with no duplicates and sorted order are :-"+number);
     }
